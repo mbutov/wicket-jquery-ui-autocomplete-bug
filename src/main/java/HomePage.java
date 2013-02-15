@@ -29,8 +29,7 @@ public class HomePage extends WebPage {
         final WebMarkupContainer root = new WebMarkupContainer("root");
         add(root.setOutputMarkupId(true));
 
-        final Component simpleTextField = createSimpleTextField();
-        root.add(simpleTextField.setVisible(false));
+        root.add(createSimpleTextField().setVisible(false));
 
         root.add(new AjaxLink("action") {
             @Override
