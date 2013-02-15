@@ -4,8 +4,8 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>autocomplete</groupId>
-    <artifactId>autocomplete</artifactId>
+    <groupId>wicket-jquery-ui-autocomplete-bug</groupId>
+    <artifactId>wicket-jquery-ui-autocomplete-bug</artifactId>
     <packaging>war</packaging>
     <version>1.0-SNAPSHOT</version>
 
